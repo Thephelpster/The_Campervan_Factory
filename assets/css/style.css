@@ -1,0 +1,6 @@
+body {
+    background: url('../images/campervan2.jpg');
+    background-size: cover;
+    background-clip: border-box;
+    background-position: 25%;
+}
