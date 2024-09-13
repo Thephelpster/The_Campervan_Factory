@@ -9,4 +9,9 @@ body {
 
 #landing {
     height: 577px;
+    color: #009063;
+}
+
+p {
+    text-align: justify;
 }
