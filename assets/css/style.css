@@ -43,6 +43,8 @@
     background-repeat: no-repeat;
 }
 
+
+
 #landing {
     height: 577px;
 }
@@ -68,3 +70,12 @@ p {
 #landing-tag {
     color: #333333;
 }    
+
+
+#about-logo {
+    width: 100%;
+}
+
+#spacer {
+    height:160px;
+}
