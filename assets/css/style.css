@@ -1,9 +1,45 @@
-body {
+#home {
     height: 667px;
     background: url('../images/campervan2.jpg');
     background-size: cover;
     background-clip: border-box;
     background-position: 25%;
+    background-repeat: no-repeat;
+}
+
+#about {
+    height: 667px;
+    background: url('../images/picard5.jpg');
+    background-size: cover;
+    background-clip: border-box;
+    background-position: 25%;
+    background-repeat: no-repeat;
+}
+
+#conversions {
+    height: 667px;
+    background: url('../images/campervanone1.jpg');
+    background-size: cover;
+    background-clip: border-box;
+    background-position: 60%;
+    background-repeat: no-repeat;
+}
+
+#contact {
+    height: 667px;
+    background: url('../images/campervantwo1.jpg');
+    background-size: cover;
+    background-clip: border-box;
+    background-position: 65%;
+    background-repeat: no-repeat;
+}
+
+#gallery {
+    height: 667px;
+    background: url('../images/picard6.jpg');
+    background-size: cover;
+    background-clip: border-box;
+    background-position: 75%;
     background-repeat: no-repeat;
 }
 
