@@ -44,6 +44,13 @@
 }
 
 
+.navbar-toggler {
+    background-color: #00bbff;
+    color: #ea9a28;
+    border-color: #ea9a28;
+    border-width: 2px;
+}
+
 
 #landing {
     height: 577px;
