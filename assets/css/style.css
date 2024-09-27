@@ -51,6 +51,11 @@
     border-width: 2px;
 }
 
+footer a {
+    font-size: 300%;
+    color: #00bbff;
+}
+
 
 #landing {
     height: 577px;
@@ -96,17 +101,6 @@ p {
 }
 
 
-#spacer {
-    height: 240px;
-}
-
-#spacer1 {
-    height: 210px;
-}
-
-#spacer2 {
-    height: 17px;
-}
 
 #mike {
     width: 100%;
@@ -118,4 +112,24 @@ p {
 
 #mark {
     width: 100%;
+}
+
+
+#conversion-title {
+    margin-bottom: 0px;
+    padding-top: 250px;
+    font-size: 40px;
+    font-weight: bold;
+    color: #00bbff;
+}
+
+#conversion-tag {
+    padding-top: 60px;
+    color: #ea9a28;
+    padding-bottom: 290px;
+}
+
+.images {
+    width: 100%;
+    padding-bottom: 15px;
 }
