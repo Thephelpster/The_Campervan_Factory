@@ -47,6 +47,10 @@
 
 /* all pages */
 
+p {
+    text-align: justify;
+}
+
 .navbar-toggler {
     background-color: #00bbff;
     color: #ea9a28;
@@ -63,10 +67,6 @@ footer a {
 
 #landing {
     height: 577px;
-}
-
-p {
-    text-align: justify;
 }
 
 #landing-box {
@@ -87,8 +87,12 @@ p {
 
 #landing-tag {
     color: #ea9a28;
-    padding-bottom: 289px;
-}    
+    padding-bottom: 310px;
+}
+
+#newsletter {
+    padding-top: 10px;
+}
 
 /* about page */
 
