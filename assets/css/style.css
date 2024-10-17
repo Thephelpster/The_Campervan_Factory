@@ -133,3 +133,21 @@ p {
     width: 100%;
     padding-bottom: 15px;
 }
+
+#contact-title {
+    margin-bottom: 0px;
+    padding-top: 250px;
+    font-size: 40px;
+    font-weight: bold;
+    color: #00bbff;
+}
+
+#contact-tag {
+    padding-top: 10px;
+    color: #ea9a28;
+    padding-bottom: 290px;
+}
+
+#email-table-padding {
+    padding-top: 20px;
+}
