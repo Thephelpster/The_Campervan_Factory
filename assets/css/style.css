@@ -164,3 +164,19 @@ p {
     padding-top: 10px;
     padding-bottom: 10px;
 }
+
+/* gallery page */
+
+#gallery-title {
+    margin-bottom: 0px;
+    padding-top: 250px;
+    font-size: 40px;
+    font-weight: bold;
+    color: #00bbff;
+}
+
+#gallery-tag {
+    padding-top: 10px;
+    color: #ea9a28;
+    padding-bottom: 290px;
+}
