@@ -1,3 +1,5 @@
+/* background images */
+
 #home {
     height: 667px;
     background: url('../images/picard5.jpg');
@@ -43,6 +45,7 @@
     background-repeat: no-repeat;
 }
 
+/* all pages */
 
 .navbar-toggler {
     background-color: #00bbff;
@@ -56,6 +59,7 @@ footer a {
     color: #00bbff;
 }
 
+/* home page */
 
 #landing {
     height: 577px;
@@ -86,6 +90,7 @@ p {
     padding-bottom: 289px;
 }    
 
+/* about page */
 
 #about-title {
     margin-bottom: 0px;
@@ -100,7 +105,7 @@ p {
     padding-bottom: 270px;
 }
 
-
+/* staff images */
 
 #mike {
     width: 100%;
@@ -114,6 +119,7 @@ p {
     width: 100%;
 }
 
+/* conversion page */
 
 #conversion-title {
     margin-bottom: 0px;
@@ -133,6 +139,8 @@ p {
     width: 100%;
     padding-bottom: 15px;
 }
+
+/* contact page */
 
 #contact-title {
     margin-bottom: 0px;
