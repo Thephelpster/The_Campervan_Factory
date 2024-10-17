@@ -151,3 +151,8 @@ p {
 #email-table-padding {
     padding-top: 20px;
 }
+
+#map-title {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
